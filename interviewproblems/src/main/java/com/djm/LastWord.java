@@ -1,4 +1,4 @@
-package com.cognixia.jump.corejava.strings;
+package com.djm;
 
 public class LastWord {
     
