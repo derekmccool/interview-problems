@@ -1,5 +1,4 @@
-package com.cognixia.jump.corejava.arrays;
-
+package com.djm;
 public class PrintOdd {
     
     public static void main(String[] args) {
